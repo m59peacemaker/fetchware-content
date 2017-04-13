@@ -1,0 +1,19 @@
+{
+  "name": "fetchware-content",
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "author": "Johnny Hauser <johnnyhauser@gmail.com>",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "form-data": "^2.1.4",
+    "node-fetch": "^1.6.3"
+  },
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}
